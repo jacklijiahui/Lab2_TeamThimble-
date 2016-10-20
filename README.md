@@ -9,3 +9,5 @@ Top view:
 
 
 Side view:
+
+<img width="319" alt="systemsideview" src="https://cloud.githubusercontent.com/assets/22850278/19547054/83cd134c-9649-11e6-87a0-b03a7cb46569.png">
