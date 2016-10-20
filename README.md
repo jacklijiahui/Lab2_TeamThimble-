@@ -1,5 +1,7 @@
 # Lab2_TeamThimble
-This is Lab 2 website for EE209 Robotics. 
+*This is Lab 2 website for EE209 Robotics. 
+
+*Requirement of team report on Lab 2 for you guys convenience*: As a team, you will create a webpage documenting and demonstrating your band. This should contain everything necessary to recreate your system. Be sure to include your code, wiring schematics, and a bill of materials, as well as pictures, videos, and text descriptions of the construction and operation.
 
 Descriptions of the construction and operation:
 
@@ -30,4 +32,4 @@ Bill of Materials:
 
 
 
-*Requirement of team report on Lab 2 for you guys convenience*: As a team, you will create a webpage documenting and demonstrating your band. This should contain everything necessary to recreate your system. Be sure to include your code, wiring schematics, and a bill of materials, as well as pictures, videos, and text descriptions of the construction and operation.
+
