@@ -47,7 +47,10 @@ Wiring Schematics:
 
 
 Bill of Materials:
+
 <iframe src="https://docs.google.com/spreadsheets/d/1mK3nsMKuRvLLGpMmHsHjuahWF6ngeLt-vtj1Abnulk8/pubhtml?widget=true&amp;headers=false"></iframe>
+
+[Bill of Materials.xlsx](https://github.com/jacklijiahui/Lab2_TeamThimble-/files/543081/Bill.of.Materials.xlsx)
 
 
 
