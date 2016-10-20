@@ -1,6 +1,6 @@
 {
   "name": "Team Thimble Lab2 ",
   "tagline": "This is Lab 2 for EE209 Robotic. ",
-  "body": "# Lab2_TeamThimble-\r\nThis is Lab 2 for EE209 Robotic. \r\n\r\n![](./images/drum.jpg)\r\n",
+  "body": "# Lab2_TeamThimble\r\nThis is Lab 2 website for EE209 Robotics. \r\n\r\nPlease see the pictures of our Jam Band Prototype below.\r\n\r\nTop view:\r\n\r\n<img width=\"551\" alt=\"systemtopview\" src=\"https://cloud.githubusercontent.com/assets/22850278/19546970/d3f6df52-9648-11e6-9574-9cee3a052e3f.png\">\r\n\r\n\r\nSide view:\r\n\r\n<img width=\"344\" alt=\"systemsideview\" src=\"https://cloud.githubusercontent.com/assets/22850278/19547109/18b62b7e-964a-11e6-8418-fd4064a4580c.png\">\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
