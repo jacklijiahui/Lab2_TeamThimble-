@@ -1,11 +1,12 @@
 # Lab2_TeamThimble
 *This is Lab 2 website for EE209 Robotics.* 
 
+Group Members: Ryan Hamidi, Xuerui Yan, Alia Nasrallah, Jiahui Li
+
 *Requirement of team report on Lab 2 for you guys convenience, feel free to add anything that you think which need to be here*: <b>As a team, you will create a webpage documenting and demonstrating your band. This should contain everything necessary to recreate your system. Be sure to include your code, wiring schematics, and a bill of materials, as well as pictures, videos, and text descriptions of the construction and operation.</b>
 
 
 Descriptions of the construction and operation:
-
 
 
 
