@@ -10,4 +10,4 @@ Top view:
 
 Side view:
 
-<img width="319" alt="systemsideview" src="https://cloud.githubusercontent.com/assets/22850278/19547054/83cd134c-9649-11e6-87a0-b03a7cb46569.png">
+<img width="344" alt="systemsideview" src="https://cloud.githubusercontent.com/assets/22850278/19547109/18b62b7e-964a-11e6-8418-fd4064a4580c.png">
