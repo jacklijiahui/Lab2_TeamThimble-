@@ -47,7 +47,6 @@ Wiring Schematics:
 
 
 Bill of Materials:
-
 <iframe src="https://docs.google.com/spreadsheets/d/1mK3nsMKuRvLLGpMmHsHjuahWF6ngeLt-vtj1Abnulk8/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
