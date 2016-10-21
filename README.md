@@ -33,7 +33,7 @@ Side view:
 
 
 <b>Code Gallery:</b>
-
+Lab2_TeamThimble-/Code/Lab2Code.ino
 
 
 
