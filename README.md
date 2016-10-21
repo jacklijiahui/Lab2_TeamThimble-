@@ -20,6 +20,7 @@ Group Members: Ryan Hamidi, Xuerui Yan, Alia Nasrallah, Jiahui Li
 
 
 <b>Pictures of Jam Band Prototype below.</b>
+
 Top view:
 
 <img width="551" alt="systemtopview" src="https://cloud.githubusercontent.com/assets/22850278/19546970/d3f6df52-9648-11e6-9574-9cee3a052e3f.png">
