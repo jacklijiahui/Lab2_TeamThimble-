@@ -52,7 +52,7 @@ Linked to Our Github: https://github.com/jacklijiahui/Lab2_TeamThimble-/blob/mas
 Block Diagram of our System
 ![system diagram](https://cloud.githubusercontent.com/assets/22620839/19614219/a3195a3a-97a7-11e6-882d-db1d3bd70dc8.jpeg)
 
-Wiring Schematic of our System
+<b>Wiring Schematic of our System</b>
 ![lab2_wiring_schematic](https://cloud.githubusercontent.com/assets/22620839/19614546/14b1f370-97ab-11e6-99b8-238401ba850e.png)
 
 
