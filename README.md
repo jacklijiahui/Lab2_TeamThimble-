@@ -48,6 +48,7 @@ Linked to Our Github: https://github.com/jacklijiahui/Lab2_TeamThimble-/blob/mas
 
 
 <b>Wiring Schematics:</b>
+Wiring Schematic of our System
 
 
 
