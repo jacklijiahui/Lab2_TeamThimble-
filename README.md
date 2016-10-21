@@ -22,10 +22,10 @@ In our Jam Band, three drums will be played in our system. We name them as KEY1,
 
 
 <b>Demonstration Video:</b>
+Two videos for our system.
+1.
 
-
-
-
+2. https://youtu.be/PvcinqmIPOQ
 
 
 
