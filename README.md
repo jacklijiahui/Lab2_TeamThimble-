@@ -16,6 +16,7 @@ Side view:
 <img width="344" alt="systemsideview" src="https://cloud.githubusercontent.com/assets/22850278/19547109/18b62b7e-964a-11e6-8418-fd4064a4580c.png">
 
 
+
 <b>Descriptions of the construction and operation:</b>
 
 Here is the block diagram over intuitive understanding of function of the entire system:
