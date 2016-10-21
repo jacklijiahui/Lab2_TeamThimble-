@@ -33,7 +33,8 @@ Side view:
 
 
 <b>Code Gallery:</b>
-Lab2_TeamThimble-/Code/Lab2Code.ino
+
+Linked to Our Github: https://github.com/jacklijiahui/Lab2_TeamThimble-/blob/master/Code/Lab2Code.ino
 
 
 
