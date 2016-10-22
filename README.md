@@ -15,6 +15,11 @@ Side view:
 
 <img width="344" alt="systemsideview" src="https://cloud.githubusercontent.com/assets/22850278/19547109/18b62b7e-964a-11e6-8418-fd4064a4580c.png">
 
+Zoomed View of Physical Connection Between Two Microcontrollers:
+
+![ee209pic3](https://cloud.githubusercontent.com/assets/22620839/19615600/692fcbd8-97b6-11e6-90ad-f57e1e1d3d7a.PNG)
+
+
 
 
 <b>Descriptions of the construction and operation:</b>
