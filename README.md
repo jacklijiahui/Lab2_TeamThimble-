@@ -51,7 +51,8 @@ https://github.com/jacklijiahui/Lab2_TeamThimble-/blob/master/Code/Lab2_finalSla
 
 <b>Wiring Schematics:</b>
 
-Block Diagram of our System
+Block Diagram of our System:
+
 ![system diagram](https://cloud.githubusercontent.com/assets/22620839/19614219/a3195a3a-97a7-11e6-882d-db1d3bd70dc8.jpeg)
 
 <b>Wiring Schematic of our System</b>
