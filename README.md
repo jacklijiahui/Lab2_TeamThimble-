@@ -64,8 +64,7 @@ Block Diagram of our System
 
 
 <b>Bill of Materials</b>, Click and Download:
-[Bill of Materials.xlsx](https://github.com/jacklijiahui/Lab2_TeamThimble-/files/543081/Bill.of.Materials.xlsx)
-
+[Bill of Materials.xlsx](https://github.com/jacklijiahui/Lab2_TeamThimble-/files/545482/Bill.of.Materials.xlsx)
 
 
 
