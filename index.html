@@ -1,42 +1,25 @@
-<!doctype html>
-<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
-<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on https://github.com/jonrohan -->
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Team Thimble Lab2  by jacklijiahui</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Team Thimble Lab2 </h1>
+      <h2 class="project-tagline">This is Lab 2 for EE209 Robotic. </h2>
+      <a href="https://github.com/jacklijiahui/Lab2_TeamThimble-" class="btn">View on GitHub</a>
+      <a href="https://github.com/jacklijiahui/Lab2_TeamThimble-/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/jacklijiahui/Lab2_TeamThimble-/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
 
-  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen">
-  <link rel="stylesheet" href="stylesheets/github-dark.css">
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="javascripts/script.js"></script>
-
-  <title>Team Thimble Lab2 </title>
-  <meta name="description" content="This is Lab 2 for EE209 Robotic. ">
-
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-
-</head>
-
-<body>
-
-  <div class="wrapper">
-    <header>
-      <h1 class="title">Team Thimble Lab2 </h1>
-    </header>
-    <div id="container">
-      <p class="tagline">This is Lab 2 for EE209 Robotic. </p>
-      <div id="main" role="main">
-        <div class="download-bar">
-        <div class="inner">
-          <a href="https://github.com/jacklijiahui/Lab2_TeamThimble-/tarball/master" class="download-button tar"><span>Download</span></a>
-          <a href="https://github.com/jacklijiahui/Lab2_TeamThimble-/zipball/master" class="download-button zip"><span>Download</span></a>
-          <a href="https://github.com/jacklijiahui/Lab2_TeamThimble-" class="code">View Team Thimble Lab2  on GitHub</a>
-        </div>
-        <span class="blc"></span><span class="trc"></span>
-        </div>
-        <article class="markdown-body">
-          <h1>
+    <section class="main-content">
+      <h1>
 <a id="lab2_teamthimble" class="anchor" href="#lab2_teamthimble" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Lab2_TeamThimble</h1>
 
 <p><em>This is Lab 2 website for EE209 Robotics.</em> </p>
@@ -59,7 +42,7 @@
 
 <p><img src="https://cloud.githubusercontent.com/assets/22620839/19614219/a3195a3a-97a7-11e6-882d-db1d3bd70dc8.jpeg" alt="system diagram"></p>
 
-<p>In our Jam Band, three drums will be played in our system. We name them as KEY1, KEY2 and KEY3. We mainly use two micro-controllers to control two motors and two sensors in order to play drums with our mechanical linkages. The two sensors that we use are ultrasonic sensor and touch sensor. Basically, codes that control sensors and motors in Arduino are compiled into the micro-controllers. Once the codes are successfully compiled, based on the pictures shown above, the moter on the main control desk will rotate the linkages that will drive the sliding cart move to the original point on the track, and the ultrasonic sesnor on the cart will begin to sense the distance with the surface of the drum. Once the distance that is sensed by the ultrasonic sensor is matched with what we set in the codes, the hammer on the track will beat the drum. Meanwhile, the touch sensor which is placed on the surface of the drum would sense that beat and the microcontroller will control the hammer to move back to its original place. In this way, our system finishs one entire interoperation motion. We can use the web server to begin another motion to play the KEYS. For more straightforward way to show how our system works, please watch the video below.</p>
+<p>In our Jam Band, two drums will be played in our system. We name them as KEY2 and KEY3. We use two micro-controllers to control two motors and two sensors in order to play drums with our mechanical linkages, which in this case are replicating fingers. The two sensors that we use are an ultrasonic sensor and a pressure sensor; specifically a Force Sensitive Resistor (FSR). Basically, codes that control sensors and motors in Arduino are compiled into the micro-controllers. Once the codes are successfully compiled, based on the pictures shown above, the moter on the linear motion control stands will rotate the linkages that will drive the sliding cart move to a starting point on the track, and the ultrasonic sesnor on the cart will begin to sense the distance between itself and the surface of the drum. Once the distance that is sensed by the ultrasonic sensor is matched with what the user indicates on a web-interface, the hammer (or mallet) on the track will beat the drum. Meanwhile, the pressure sensor which is placed on the surface of the drum would sense that hit and the microcontroller will control the hammer to move back to its original place. In this way, our system finishes one entire cycle of operations between the two microcontrollers. We can use the web server to begin another motion to play a different key, or the same key again. For visualization of how our system works, please watch the videos below.</p>
 
 <p><b>Demonstration Video:</b>
 Three videos for our system.</p>
@@ -76,28 +59,24 @@ Three videos for our system.</p>
 
 <p><b>Wiring Schematics:</b></p>
 
+<p>Block Diagram of our System
+<img src="https://cloud.githubusercontent.com/assets/22620839/19614219/a3195a3a-97a7-11e6-882d-db1d3bd70dc8.jpeg" alt="system diagram"></p>
+
+<p><b>Wiring Schematic of our System</b></p>
+
+<p><img src="https://cloud.githubusercontent.com/assets/22620839/19614546/14b1f370-97ab-11e6-99b8-238401ba850e.png" alt="lab2_wiring_schematic"></p>
+
 <p><b>Bill of Materials</b>, Click and Download:
 <a href="https://github.com/jacklijiahui/Lab2_TeamThimble-/files/543081/Bill.of.Materials.xlsx">Bill of Materials.xlsx</a></p>
-        </article>
-      </div>
-    </div>
-    <footer>
-      <div class="owner">
-      <p><a href="https://github.com/jacklijiahui" class="avatar"><img src="https://avatars2.githubusercontent.com/u/22620839?v=3&amp;s=60" width="48" height="48"></a> <a href="https://github.com/jacklijiahui">jacklijiahui</a> maintains <a href="https://github.com/jacklijiahui/Lab2_TeamThimble-">Team Thimble Lab2 </a></p>
 
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/jacklijiahui/Lab2_TeamThimble-">Team Thimble Lab2 </a> is maintained by <a href="https://github.com/jacklijiahui">jacklijiahui</a>.</span>
 
-      </div>
-      <div class="creds">
-        <small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a><br>theme by <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
-      </div>
-    </footer>
-  </div>
-  <div class="current-section">
-    <a href="#top">Scroll to top</a>
-    <a href="https://github.com/jacklijiahui/Lab2_TeamThimble-/tarball/master" class="tar">tar</a><a href="https://github.com/jacklijiahui/Lab2_TeamThimble-/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
-    <p class="name"></p>
-  </div>
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
 
   
-</body>
+  </body>
 </html>
