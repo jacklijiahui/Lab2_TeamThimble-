@@ -56,7 +56,7 @@ Block Diagram of our System
 
 <b>Wiring Schematic of our System</b>
 
-![lab2_wiring_schematic](https://cloud.githubusercontent.com/assets/22620839/19614546/14b1f370-97ab-11e6-99b8-238401ba850e.png)
+![wiring](https://cloud.githubusercontent.com/assets/22620839/19615492/ac345c7a-97b4-11e6-895d-9801cfa30037.jpeg)
 
 
 
