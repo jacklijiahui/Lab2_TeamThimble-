@@ -6,12 +6,12 @@ Group Members: Ryan Hamidi, Xuerui Yan, Alia Nasrallah, Jiahui Li
 
 <b>Pictures of Jam Band System Prototype below.</b>
 
-Top view:
+Top view of Drums and Sliding Mechanical Structure:
 
 <img width="551" alt="systemtopview" src="https://cloud.githubusercontent.com/assets/22850278/19546970/d3f6df52-9648-11e6-9574-9cee3a052e3f.png">
 
 
-Side view:
+Side view of Drums and Sliding Mechanical Structure:
 
 <img width="344" alt="systemsideview" src="https://cloud.githubusercontent.com/assets/22850278/19547109/18b62b7e-964a-11e6-8418-fd4064a4580c.png">
 
